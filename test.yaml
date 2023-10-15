@@ -1,0 +1,24 @@
+page:
+  - pagename:
+      attributes:
+        text: A dummy website
+  - heading:
+      attributes:
+        text: This is a title text
+        position: center
+  - paragraph:
+      attributes:
+        text: lorem epsum had a great day
+        position: right
+        font-size: large
+  - image:
+      attributes:
+        path: https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg
+        width: 200px
+        height: 200px
+        position: center
+  - link:
+      attributes:
+        url: https://www.google.com
+        name: google
+        position: left
